@@ -1,0 +1,32 @@
+.cart{
+
+    background-color: white;
+    border: 1px solid #eae8e8;
+    border-radius: 10px;
+    padding: 25px 40px;
+    -webkit-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    -moz-box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    box-shadow: 4px 4px 8px 0px rgba(34, 60, 80, 0.2);
+    margin-top: 10px;
+}
+
+.cartTitle{
+    margin-bottom: 15px;
+}
+.titleContent{
+    margin-bottom: 5px;
+}
+
+.desc{
+    display: flex;
+    gap: 10px;
+    
+}
+
+.author, .created_at{
+    font-weight: 700;
+    color: silver;
+}
+.body{
+    margin-bottom: 15px;
+}

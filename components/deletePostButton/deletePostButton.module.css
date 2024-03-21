@@ -1,0 +1,19 @@
+.trashIcon{
+    height: 18px;
+    width: 18px;
+}
+
+.trashBtn{
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    font-size: 14px;
+    padding: 10px 14px;
+    border: none;
+    background-color: red;
+    color: white;
+    border-radius: 10px;
+}
+.btnTxt{
+    padding-top: 3px;
+}
